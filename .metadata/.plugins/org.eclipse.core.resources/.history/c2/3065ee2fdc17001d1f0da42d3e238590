@@ -1,0 +1,5 @@
+package com.springcore.hibernate;
+
+public class Student {
+
+}
