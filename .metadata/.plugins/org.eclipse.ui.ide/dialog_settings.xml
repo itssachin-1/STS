@@ -17,6 +17,7 @@
 		<item value="org.eclipse.jgit.ssh.apache:6.2.0.202206071550-r"/>
 		<item value="org.eclipse.jgit:6.2.0.202206071550-r"/>
 		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.24.0.v202111201707"/>
+		<item value="org.eclipse.jst.enterprise_ui.feature:3.26.0.v202204042240"/>
 		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:17.0.3.v20220515-1416"/>
 		<item value="org.eclipse.m2e.feature:1.20.1.20220227-1319"/>
 		<item value="org.eclipse.m2e.logback.feature:1.17.2.20211002-1029"/>
@@ -47,19 +48,25 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-			<item value="/Users/sachin/Desktop/Lab/Spring-Boot/STS/hibernate"/>
-			<item value="/Users/sachin/Desktop/Lab/Spring-Boot/STS/demo"/>
-			<item value="/Users/sachin/Desktop/Lab/Spring-Boot/STS/core"/>
-			<item value="/Users/sachin/Desktop/Lab/Spring-Boot/STS/Hibernate"/>
-			<item value="/Users/sachin/Desktop/Lab/Spring-Boot/STS"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/SpringMVCTiles"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/Food-Delivery-Spring-Boot"/>
+			<item value="/Users/sachin/Downloads/BDS"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/spring-boot/restAPI"/>
+			<item value="/Users/sachin/Desktop/first"/>
+			<item value="/Users/sachin/Desktop/demo"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/Others/springorm"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/hibernate/fetch-data"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/hibernate/hibernate-annotations"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/hibernate/hibernate-basics"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/demo"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/spring-core"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/hibernate/hibernate"/>
 		</list>
 	</section>
-	<section name="ChooseWorkspaceDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="407"/>
-		<item key="DIALOG_Y_ORIGIN" value="263"/>
-	</section>
-	<section name="WORKBENCH_SETTINGS">
-		<list key="ENABLED_TRANSFERS">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
 		</list>
 	</section>
 </section>
