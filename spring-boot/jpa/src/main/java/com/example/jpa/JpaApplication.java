@@ -74,6 +74,12 @@ public class JpaApplication {
 		userRepo.deleteById(2);
 		System.out.println("\ndeleted user: " + usr.getName());
 
+		// deleting all user
+//		userRepo.deleteAll(itr);
+
+		// using derived query method
+		List<User> users = userRepo.findByName("abc");
+		users.forEach(e -> System.out.println(e));
 	}
 
 }
