@@ -48,6 +48,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/sachin/Desktop/Projects/CDAC_Project/Food-Delivery"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/spring-boot/EmployeeRegistrationSystem"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/spring-boot/CreateEmployee-EmployeeRegistration"/>
+			<item value="/Users/sachin/Desktop/CreateEmployee-EmployeeRegistration"/>
+			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/Others/Food-Delivery-Spring-Boot"/>
 			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/SpringMVCTiles"/>
 			<item value="/Users/sachin/Desktop/Lab/Spring-Workspace/STS/Food-Delivery-Spring-Boot"/>
 			<item value="/Users/sachin/Downloads/BDS"/>
