@@ -1,8 +1,0 @@
-127.0.0.1 - - [07/Sep/2022:19:31:29 +0530] "GET / HTTP/1.1" 404 752
-0:0:0:0:0:0:0:1 - - [07/Sep/2022:19:31:32 +0530] "GET /SpringMVCTiles/ HTTP/1.1" 200 78
-0:0:0:0:0:0:0:1 - - [07/Sep/2022:19:31:33 +0530] "GET /favicon.ico HTTP/1.1" 404 763
-0:0:0:0:0:0:0:1 - - [07/Sep/2022:19:31:36 +0530] "GET /SpringMVCTiles/hello.html HTTP/1.1" 404 683
-0:0:0:0:0:0:0:1 - - [07/Sep/2022:19:31:40 +0530] "GET /SpringMVCTiles/contact.html HTTP/1.1" 404 683
-0:0:0:0:0:0:0:1 - - [07/Sep/2022:19:41:31 +0530] "GET /SpringMVCTiles/ HTTP/1.1" 200 78
-0:0:0:0:0:0:0:1 - - [07/Sep/2022:19:41:32 +0530] "GET /SpringMVCTiles/contact.html HTTP/1.1" 404 683
-0:0:0:0:0:0:0:1 - - [07/Sep/2022:20:00:49 +0530] "GET /SpringMVCTiles/contact.html HTTP/1.1" 404 683

@@ -1,5 +1,0 @@
-#Tomcat publish data
-#Wed Sep 07 20:50:52 IST 2022
-org.eclipse.jst.jee.server\:/binary\:/Users/sachin/.m2/repository/org/apache/tomcat/tomcat-jasper/9.0.12/tomcat-jasper-9.0.12.jar=WEB-INF/lib/tomcat-jasper-9.0.12.jar
-org.eclipse.jst.jee.server\:/binary\:/Users/sachin/.m2/repository/org/springframework/spring-web/5.1.1.RELEASE/spring-web-5.1.1.RELEASE.jar=WEB-INF/lib/spring-web-5.1.1.RELEASE.jar
-org.eclipse.jst.j2ee.server\:/binary\:/Users/sachin/.m2/repository/org/springframework/spring-web/5.3.18/spring-web-5.3.18.jar=WEB-INF/lib/spring-web-5.3.18.jar
