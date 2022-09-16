@@ -1,6 +1,9 @@
 Servers
 frontend
 
+/.metadata
+/Servers
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -31,6 +34,7 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+private
 
 ### VS Code ###
 .vscode/
